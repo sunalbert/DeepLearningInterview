@@ -3,7 +3,7 @@
 __Update 04-07-2018__:   __A collection of problems in Deep Learning / Image Algorithm interviews.__
 
 MIT license. Contributions welcome.
-
+sd
 ## Overview
 
 	DeepLearningInterview/       
